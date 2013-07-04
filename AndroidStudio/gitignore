@@ -1,6 +1,12 @@
+.classpath
+.project
+.settings
+# I think the above lines are for Eclipse
+
 .gitignore
 .idea
 *.iml
 
+bin/
 gen/
 out/
